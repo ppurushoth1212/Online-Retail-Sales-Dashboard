@@ -37,7 +37,6 @@ This project analyzes the Online Retail Sales dataset (2010–2011) using Power 
 
 ## 📁 Files Included
 - Online_Retail_Data_Cleaning.ipynb
-- cleaned_online_retail.csv
 - Online_Retail_Sales_Dashboard.pbix
 - Dashboard Screenshots
 
